@@ -8,7 +8,7 @@
 
 ## インストール方法
 
-git cloneしします。
+git cloneします。
 
 ```shell
 $ git clone https://github.com/kapiecii/hareotoko.git

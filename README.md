@@ -21,4 +21,8 @@ https://weather.yahoo.co.jp/weather/jp/13/4410.html
 
 ブラウザ上部のメニューに表示されている太陽のアイコンをクリックします。
 
+![image1](https://raw.githubusercontent.com/kapiecii/hareotoko/main/image1.png)
+
 天気予報が全て「快晴」になります。
+
+![image2](https://raw.githubusercontent.com/kapiecii/hareotoko/main/image2.png)
